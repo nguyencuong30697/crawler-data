@@ -86,5 +86,5 @@ func main() {
 
 	})
 
-	c.Visit("https://viblo.asia/newest")
+	c.Visit("https://viblo.asia/u/Clarence161095")
 }
